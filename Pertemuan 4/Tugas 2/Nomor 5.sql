@@ -1,0 +1,1 @@
+SELECT DISTINCT dosen_pengajar,hari, jam_mulai, jam_selesai FROM dbo.jadwal_mata_kuliah;
