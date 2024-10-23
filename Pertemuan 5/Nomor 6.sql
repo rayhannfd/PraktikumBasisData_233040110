@@ -1,0 +1,22 @@
+INSERT INTO mahasiswa (nama_mahasiswa, nim, jurusan)
+VALUES 
+    ('Andi', '233034983', 'Teknik Informatika'),
+    ('Budi', '3248728943', 'Sistem Informasi'),
+    ('Citra', '238492324', 'Teknik Komputer'),
+    ('Dini', '3242749323', 'Manajemen'),
+    ('Eko', '324782332', 'Akuntansi'),
+    ('Fani', '324312623', 'Teknik Sipil'),
+    ('Gita', '32873265', 'Ilmu Komunikasi'),
+    ('Hadi', '324782364', 'Psikologi'),
+    ('Ika', '329827234', 'Sosiologi'),
+    ('Joko', '3247957', 'Ekonomi'),
+    ('Lina', '432878533', 'Teknik Informatika'),
+    ('Mira', '234962355', 'Sistem Informasi'),
+    ('Nina', '2348926572', 'Teknik Komputer'),
+    ('Omar', '324897235', 'Manajemen'),
+    ('Putu', '238926354', 'Akuntansi'),
+    ('Qori', '324276824', 'Teknik Sipil'),
+    ('Rina', '23234653', 'Ilmu Komunikasi'),
+    ('Sari', '24723435', 'Psikologi'),
+    ('Tina', '324782348', 'Sosiologi'),
+    ('Udin', '243235647', 'Ekonomi');
